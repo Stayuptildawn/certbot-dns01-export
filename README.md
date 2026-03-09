@@ -1,4 +1,4 @@
-```markdown
+
 # ssl-cert-apache2.4
 
 Automates Let's Encrypt SSL certificate generation via DNS-01 challenge and packages the output for Apache 2.4 deployment, including on offline or Windows-hosted servers.
